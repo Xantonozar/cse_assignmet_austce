@@ -11,6 +11,7 @@ This repository is dedicated to helping students of the Ahsanullah University of
 - Assignment 3: [A1 assignment2_problem2](problem3.c)
 - Assignment 4: [B2 assignment2_problem1](problem4.c)
 - Assignment 5: [B2 assignment2_problem3](problem5.c)
+- Assignment 6: [B2 assignment2_problem2](problem5.c)
 - More assignments will be added as they are completed.
 
 ### 🚩 How to Use
