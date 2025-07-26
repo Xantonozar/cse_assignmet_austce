@@ -11,9 +11,10 @@ int main(){
             printf(" ");
             k++;
         }
-        for(;k>=letNum-i && k<letNum;k++){
+        while(k>=letNum-i && k<letNum){
             printf("%c ",letter);
             letter+=1;
+            k++;
         }
         printf("\n");
     }
