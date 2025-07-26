@@ -8,6 +8,7 @@ This repository is dedicated to helping students of the Ahsanullah University of
 ### 📝 Assignments List
 - Assignment 1: [c2 assignment2 problem1](problem1.c)
 - Assignment 2: [c2 assignment2_problem2](problem2.c)
+- Assignment 3: [A1 assignment2_problem2](problem3.c)
 - More assignments will be added as they are completed.
 
 ### 🚩 How to Use
