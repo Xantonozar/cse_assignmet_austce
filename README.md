@@ -6,8 +6,8 @@ Welcome to the repository containing all CSE assignments based on the C programm
 This repository is dedicated to helping students of the Ahsanullah University of Science and Technology (AUST), Civil Engineering 52nd batch, with their C programming assignments. Each assignment is solved and provided for reference and learning purposes.
 
 ### 📝 Assignments List
-- Assignment 1: [assignment1.c](problem1.c) *(if available)*
-- Assignment 2: [assignment2_2.c](problem2.c)
+- Assignment 1: [c2 assignment2 problem1](problem1.c)
+- Assignment 2: [c2 assignment2_problem2](problem2.c)
 - More assignments will be added as they are completed.
 
 ### 🚩 How to Use
