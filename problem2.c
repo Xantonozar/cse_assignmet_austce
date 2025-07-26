@@ -32,8 +32,10 @@ int main() {
         while ( i*i<= n) {// 
             if (n % i == 0) {
                 isPrime = 0;
-            }        i=i+2;
-        }      }
+            }        
+            i=i+2;
+        }     
+        }
     //printing value 
     if (isPrime) printf("%d is a prime number.\n", n);
     else printf("%d is not a prime number.\n", n);
