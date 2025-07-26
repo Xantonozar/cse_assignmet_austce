@@ -1,3 +1,19 @@
+/*
+Write a program to input a number from the user and determine whether the given number is a prime number using a while loop.
+
+Sample Input and Output:
+Input:
+Enter a number: 17
+Output:
+17 is a prime number.
+
+Input:
+Enter a number: 12
+Output:
+12 is not a prime number.
+*/
+
+
 #include <stdio.h>
 int main() {
     int n,i=3, isPrime;
