@@ -16,7 +16,7 @@ Output:
 
 #include <stdio.h>
 int main() {
-    int n,i=3, isPrime;
+    int n,i=3, isPrime=1;
     printf("Enter a number: ");
     scanf("%d", &n);
     //number less then 2 is not a prime number
